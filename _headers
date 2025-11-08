@@ -1,0 +1,2 @@
+/*
+  Content-Security-Policy: script-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob:; object-src 'self'; style-src 'self' 'unsafe-inline';
